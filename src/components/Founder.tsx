@@ -18,11 +18,11 @@ const Founder = () => (
           <figure className="relative overflow-hidden rounded-sm border border-border">
             <img
               src={FOUNDER_PHOTO}
-              alt="Елена Гросс, основатель бухгалтерской практики «Гроссбух»"
+              alt="Елена Ласточкина, основатель бухгалтерской практики «Гроссбух»"
               className="aspect-[4/5] w-full object-cover object-top transition-transform duration-[1200ms] hover:scale-[1.03]"
             />
             <figcaption className="border-t border-border bg-card px-6 py-4 font-serif text-sm italic text-muted-foreground">
-              Елена Гросс — основатель практики, аттестованный главный бухгалтер
+              Елена Ласточкина — основатель практики, аттестованный главный бухгалтер
             </figcaption>
           </figure>
         </Reveal>
