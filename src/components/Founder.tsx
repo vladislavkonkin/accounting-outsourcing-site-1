@@ -2,7 +2,7 @@ import Reveal from '@/components/Reveal';
 import Icon from '@/components/ui/icon';
 
 const FOUNDER_PHOTO =
-  'https://cdn.poehali.dev/projects/0a87c5c7-8377-4f22-8f81-c5b75eb2c345/bucket/2c5c41cb-a3f8-4893-ae43-655531218769.jpg';
+  'https://cdn.poehali.dev/projects/0a87c5c7-8377-4f22-8f81-c5b75eb2c345/bucket/22c9664c-04ac-4039-b551-af3eb5079c73.png';
 
 const FACTS = [
   { value: '17 лет', label: 'в бухгалтерии малого бизнеса' },
