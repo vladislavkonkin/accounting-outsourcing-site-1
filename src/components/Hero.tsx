@@ -20,7 +20,7 @@ const Hero = () => (
       >
         Вашу бухгалтерию{' '}
         <em className="font-serif text-[1.04em] font-normal italic tracking-[-0.01em]">берём</em> на
-        себя.
+        себя
       </h1>
 
       <div
