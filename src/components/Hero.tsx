@@ -1,13 +1,13 @@
 import Icon from '@/components/ui/icon';
 
 const HERO_IMAGE =
-  'https://cdn.poehali.dev/projects/0a87c5c7-8377-4f22-8f81-c5b75eb2c345/files/1aa754ff-4299-48a1-8789-e89567a1a742.jpg';
+  'https://cdn.poehali.dev/projects/0a87c5c7-8377-4f22-8f81-c5b75eb2c345/files/2c742f86-f15f-4650-b12b-f259a35065cd.jpg';
 
 const Hero = () => (
   <section id="top" className="relative h-screen min-h-[620px] w-full overflow-hidden bg-background">
     <img
       src={HERO_IMAGE}
-      alt="Подписание договора на бухгалтерское обслуживание"
+      alt="Бухгалтер пожимает руку клиенту в офисе"
       className="absolute inset-0 h-full w-full animate-rise object-cover"
       style={{ objectPosition: '50% 42%', animationDuration: '1.4s' }}
     />
