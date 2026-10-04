@@ -2,7 +2,7 @@ import Reveal from '@/components/Reveal';
 import Icon from '@/components/ui/icon';
 
 const FOUNDER_PHOTO =
-  'https://cdn.poehali.dev/projects/0a87c5c7-8377-4f22-8f81-c5b75eb2c345/files/4de94053-90fb-443d-8844-b505f53a1d5a.jpg';
+  'https://cdn.poehali.dev/projects/0a87c5c7-8377-4f22-8f81-c5b75eb2c345/bucket/2c5c41cb-a3f8-4893-ae43-655531218769.jpg';
 
 const FACTS = [
   { value: '17 лет', label: 'в бухгалтерии малого бизнеса' },
@@ -19,7 +19,7 @@ const Founder = () => (
             <img
               src={FOUNDER_PHOTO}
               alt="Елена Гросс, основатель бухгалтерской практики «Гроссбух»"
-              className="aspect-[4/5] w-full object-cover transition-transform duration-[1200ms] hover:scale-[1.03]"
+              className="aspect-[4/5] w-full object-cover object-top transition-transform duration-[1200ms] hover:scale-[1.03]"
             />
             <figcaption className="border-t border-border bg-card px-6 py-4 font-serif text-sm italic text-muted-foreground">
               Елена Гросс — основатель практики, аттестованный главный бухгалтер
